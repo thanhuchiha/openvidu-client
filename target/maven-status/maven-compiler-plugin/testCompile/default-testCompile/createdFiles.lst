@@ -1,0 +1,3 @@
+io/openvidu/java/client/test/OpenViduTest.class
+io/openvidu/java/client/OpenViduJavaClientExceptionTest.class
+io/openvidu/java/client/OpenViduHttpExceptionTest.class

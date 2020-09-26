@@ -1,0 +1,16 @@
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/RecordingLayout.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/OpenViduHttpException.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/TokenOptions.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/Publisher.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/MediaMode.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/OpenVidu.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/OpenViduRole.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/Recording.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/Session.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/Connection.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/KurentoOptions.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/OpenViduException.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/OpenViduJavaClientException.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/RecordingMode.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/RecordingProperties.java
+/opt/openvidu_src/openvidu/openvidu-java-client/src/main/java/io/openvidu/java/client/SessionProperties.java
